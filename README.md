@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Lillian A. Wood. Also known as @lilly-pad!
+- 👋 Hi, my name is Lillian A. Wood, also known as @lilly-pad!
 - 👀 A UCSD Class of 2022 graduate in Machine Learning and Neural Computation, minoring in Business.
 - 🌱 I have worked on both front- and back-end applications, so I'm actively working towards full stack.
 - <3 Check out my projects!
