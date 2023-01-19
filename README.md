@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lilly-pad
-- 👀 I’m interested in gaining experience in data science, data analytics, and machine learning.
-- 🌱 I’m currently learning Python and practicing data science approaches.
-- 💞️ I’m looking to collaborate on projects to analyze and extract information from data to "tell a story."
-- 📫 How to reach me: 
+- 👋 Hi, my name is Lillian A. Wood. Also known as @lilly-pad!
+- 👀 A UCSD Class of 2022 graduate in Machine Learning and Neural Computation, minoring in Business.
+- 🌱 I have worked on both front- and back-end applications, so I'm actively working towards full stack.
+- <3 Check out my projects!
+- 📫 And feel free to reach out: 
       -  LinkedIn: linkedin.com/in/lillian-wood-b49ab3172
 
 <!---
